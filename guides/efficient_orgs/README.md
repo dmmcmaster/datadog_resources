@@ -6,7 +6,7 @@ Keep in mind while looking into individual resource types that there are out-of-
 
 ### [Monitors and SLOs](https://github.com/dmmcmaster/datadog_resources/guides/efficient_orgs)
 
-### [Dashboards](https://github.com/dmmcmaster/datadog_resources/guides/efficient_orgs/dashboards.md)
+### [Dashboards](https://github.com/dmmcmaster/datadog_resources/blob/main/guides/efficient_orgs/dashboards.md)
 
 ### [Key Management](https://github.com/dmmcmaster/datadog_resources/guides/efficient_orgs)
 
