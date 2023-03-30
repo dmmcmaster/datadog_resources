@@ -20,7 +20,7 @@
 ## 2. Power Packs
 - The most successful organizations I have interacted with have a standard set of metrics or KPIs. To accomplish this into a dashboard, users can create Datadog Power Packs to create a set of standard widgets that visualize these KPIs for applications or environment.
     
-    - [Docuentation Link](https://docs.datadoghq.com/dashboards/guide/powerpacks-best-practices/#build-self-explanatory-content)
+    - [Documentation Link](https://docs.datadoghq.com/dashboards/guide/powerpacks-best-practices/#build-self-explanatory-content)
 
 ## 3. Templated Dashboards
 - Dashboards are JSON objects behind the scenes. Users can export the JSON in the UI or pull it out of the API and store it in version control or an infrastructure as code tool like Terraform.
