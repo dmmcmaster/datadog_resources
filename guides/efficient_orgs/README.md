@@ -12,6 +12,6 @@ Keep in mind while looking into individual resource types that there are out-of-
 
 ### [Cloud Resources](https://github.com/dmmcmaster/datadog_resources/guides/efficient_orgs)
 
-### [Tagging](https://github.com/dmmcmaster/datadog_resources/guides/efficient_orgs)
+### [Tagging and Custom Metrics](https://github.com/dmmcmaster/datadog_resources/guides/efficient_orgs)
 
 ### [Synthetics Tests](https://github.com/dmmcmaster/datadog_resources/guides/efficient_orgs)
