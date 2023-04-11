@@ -8,7 +8,7 @@ Keep in mind while looking into individual resource types that there are out-of-
 
 ### [Dashboards](https://github.com/dmmcmaster/datadog_resources/blob/main/guides/efficient_orgs/dashboards.md)
 
-### [Key Management](https://github.com/dmmcmaster/datadog_resources/blob/main/guides/efficient_orgs)
+### [Key Management](https://github.com/dmmcmaster/datadog_resources/blob/main/guides/efficient_orgs/key_management.md)
 
 ### [Cloud Resources](https://github.com/dmmcmaster/datadog_resources/blob/main/guides/efficient_orgs)
 
