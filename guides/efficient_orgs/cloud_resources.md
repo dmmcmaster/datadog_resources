@@ -12,13 +12,20 @@
     
     - [Documentation Link](https://docs.datadoghq.com/integrations/amazon_web_services/#tags)
 
+
+    ![UI Screehshot](https://github.com/dmmcmaster/datadog_resources/blob/main/guides/efficient_orgs/img/cloud_resources/aws_account_tags.jpg)
+
 ## 2. Limit Metric Collection
 - Along the theme of tags, you can also add tags to exclude certain resources within an account from being collected. I personally find it easier to do an exclusion (only collect if it does not have team:web tag - "!team:web") instead of an inclusion (collect if has tag team:web - "team:web") UNLESS you are a new Datadog user onboarding and have the ability to set a standard from the beginning. Be advised as well that not all AWS resources are billable so excluding them would not change costs.
     - [Documentation Link](https://docs.datadoghq.com/account_management/billing/aws/#aws-resource-exclusion)
 
+    ![UI Screehshot](https://github.com/dmmcmaster/datadog_resources/blob/main/guides/efficient_orgs/img/cloud_resources/aws_resource_exclusion.jpg)
+
 ## 2. Limit Regional Collection
 - The AWS Integration also allows you to choose specific regions to monitor directly in the UI. This can be enabled and disabled on-the-fly in the integration tile making it easy to scale up and make sure you're only collecting the resources you are interested in.
     - [Documentation Link](https://docs.datadoghq.com/account_management/billing/aws/#aws-resource-exclusion)
+
+    ![UI Screehshot](https://github.com/dmmcmaster/datadog_resources/blob/main/guides/efficient_orgs/img/cloud_resources/aws_region_exclusion.jpg)
 
 ----
 
@@ -29,6 +36,7 @@
     
     - [Documentation Link](https://docs.datadoghq.com/account_management/billing/azure/#azure-vm-exclusion)
 
+    ![UI Screehshot]()
 
 ----
 
@@ -38,3 +46,5 @@
 - Along the theme of tags, you can also add tags to exclude certain resources within an account from being collected. I personally find it easier to do an exclusion (only collect if it does not have team:web tag - "!team:web") instead of an inclusion (collect if has tag team:web - "team:web") UNLESS you are a new Datadog user onboarding and have the ability to set a standard from the beginning. Be advised as well that not all GCP resources are billable so excluding them would not change costs.
     
     - [Documentation Link](https://docs.datadoghq.com/account_management/billing/google_cloud/#google-cloud-metric-exclusion)
+
+    ![UI Screehshot]()

@@ -10,7 +10,7 @@ Keep in mind while looking into individual resource types that there are out-of-
 
 ### [Key Management](https://github.com/dmmcmaster/datadog_resources/blob/main/guides/efficient_orgs/key_management.md)
 
-### [Cloud Resources](https://github.com/dmmcmaster/datadog_resources/blob/main/guides/efficient_orgs)
+### [Cloud Resources](https://github.com/dmmcmaster/datadog_resources/blob/main/guides/efficient_orgs/cloud_resources.md)
 
 ### [Tagging and Custom Metrics](https://github.com/dmmcmaster/datadog_resources/blob/main/guides/efficient_orgs)
 
