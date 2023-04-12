@@ -16,6 +16,9 @@
 - In the manage monitors UI page, you have the ability to filter monitors that have been muted for X number of days. Each user has the ability to set how long they deem to be long enough to consider that monitor outdated or able to delete. I would recommend starting with 30 days as a good starting point but an aggressive approach would be 7 days or more of being muted.
 
     - [Muted Elapsed Documentation](https://docs.datadoghq.com/monitors/manage/search/#attributes)
+    
+    
+    ![UI Screehshot](https://github.com/dmmcmaster/datadog_resources/blob/main/guides/efficient_orgs/img/monitors/monitor_elapsed.jpg)
 
 ## 3. No Notification Channels
 - One of the easiest ways to identify monitors to clean up or edit is to search for those without a notification channel. By using the simple query `-notification:*` you can see any monitor that alerts to nowhere. Either add a notification recipient(s) or delete them.
